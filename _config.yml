@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "João Marcos Fávaro Lopes"
+title                    : "João Marcos"
 title_separator          : "-"
 name                     : &name "João Marcos Fávaro Lopes"
 description              : &description "A personal website for João Marcos, a researcher in the field of Applied Nuclear Physics. This site showcases my work, publications, and interests in physics and science."
