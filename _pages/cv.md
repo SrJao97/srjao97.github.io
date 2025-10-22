@@ -10,53 +10,52 @@ redirect_from:
 
 # Education
 
-* **PhD Candidate in Physics**, Federal University of Paraná (UFPR), Curitiba, Brazil (2022-Present)
-    * Advisor: Ricardo Luiz Viana
-    * Visiting Research Period: Universidad Rey Juan Carlos, Spain (Supervisor: Miguel A.F. Sanjuán)
-    * Scholarship: CNPq (National Council for Scientific and Technological Development)
-* **M.S. in Physics**, Federal University of Paraná (UFPR), Curitiba, Brazil (2020 - 2022)
-    * Thesis: "Sincronização Entre Osciladores Não Lineares Acoplados Não Localmente" (Synchronization Between Nonlinearly Nonlocally Coupled Oscillators)
-    * Advisor: Ricardo Luiz Viana
+* **PhD Candidate in Physics**, State University of Londrina (UEL), Londrina, Brazil (2022-Present)
+    * Advisor: Avacir Casanova Andrello
+    * STEP Fellow: International Atomic Energy Agency, Austria (Supervisor: Kalliopi Kanaki)
+    * Scholarship: CAPES (Coordination for the Improvement of Higher Education Personnel)
+* **M.S. in Physics**, State University of Londrina (UEL), Londrina, Brazil (2020 - 2022)
+    * Thesis: "Análise Elementar por TXRF de Amostras de Saliva de Pacientes com Peri-Implantite" (Elemental Analysis using TXRF of Saliva Samples of Patients with Peri-Implantitis)
+    * Advisor: Avacir Casanova Andrello
 * **B.S. in Physics**, State University of Maringá (UEM), Maringá, Brazil (2016 - 2019)
-    * Thesis: "Dinâmica Newtoniana Modificada e o problema da rotação das galáxias" (Modified Newtonian Dynamics and the Galaxy Rotation Problem)
-    * Advisor: Marcos Cesar Danhoni Neves
+    * Thesis: "Espectroscopia de Impedância: Uma Visão Elétrica e Mecânica" (Impedance Spectroscopy: An Electrical and Mechanical View)
+    * Advisor: Fernando Carlos Messias Freire
 
 # Research Experience
-* **Research Areas:** Plasma Physics, Hamiltonian Dynamics, Chaos Theory, Transport Phenomena, Nonlinear Dynamics, Synchronization, Spectroscopy
+* **Research Areas:** Applied Nuclear Physics, Gamma-Ray Spectrometry, X-Ray Fluorescence, Mid-Infrared Spectroscopy, Soil Redistribution, Multivariate Analysis, Regression Models
 
-* **Member, Plasma Physics and Non-Linear Dynamics Group**, Federal University of Paraná (UFPR) (2020 - Present)
-* **Visiting Researcher**, Universidad Rey Juan Carlos, Spain (one year stay, during PhD)
-    * Supervisor: Miguel A.F. Sanjuán
-* **Scientific Initiation (Undergraduate Research)**, State University of Maringá (UEM) (2018 - 2019)
-    * Focused on spectroscopy of native species.
+* **Member, Applied Nuclear Physics Group**, State University of Londrina (UEL) (2020 - Present)
+* **STEP Fellowship (2025)**, Nuclear Science and Instrumentation Laboratory, International Atomic Energy Agency, Austria (six-month stay, during PhD)
+    * Supervisor: Kalliopi Kanaki
+* **STEP Fellowship (2026)**, Soil and Water Management and Crop Nutrition Laboratory, International Atomic Energy Agency, Austria (three-month stay, during PhD)
+    * Supervisor: Gerd Dercon
 
 # Academic Service & Leadership
 
-* **Student Representative**, Graduate Program in Physics (PPGF-UFPR) (2023)
 * **Fellow, Tutorial Education Program (PET-Physics)**, State University of Maringá (UEM) (2016 - 2019)
     * Engaged in projects covering Teaching & Scientific Dissemination, Astronomy & Cosmology, Interdisciplinary Art-Science, and Phenomenology of Elementary Particles.
-* **President, Physics Academic Center**, UEM (2019)
+
 
 # Professional Affiliations
 
-* **Member, Sociedade Brasileira de Física (SBF)** (Brazilian Physical Society) (Since January 2018)
-* **Member, Sociedade Brasileira para o Progresso da Ciência (SBPC)** (Brazilian Society for the Advancement of Science) (Since January 2018)
+* **Member, Sociedade Brasileira de Física (SBF)** (Brazilian Physical Society) (Since 2024)
+* **Member, Sociedade Brasileira para o Progresso da Ciência (SBPC)** (Brazilian Society for the Advancement of Science) (Since 2020)
 
 # Complementary Training
 
-* **Specialization in Quantum Communication**, SENAI CIMATEC, Online (2025 - Present)
-* **IAEA Fusion Energy School**, International Centre For Theoretical Physics (ICTP), Italy (2024, 80h)
-* **IAEA School on AI for Nuclear, Plasma and Fusion Science**, International Centre For Theoretical Physics (ICTP), Italy (2023, 40h)
-* **School on Applications of Nonlinear Systems to Socio-Economic Complexity**, International Centre For Theoretical Physics (ICTP-SAIFR), Brazil (2022, 40h)
+* **Summer School on Experimental Nuclear Physics**, Bahia Federal University, Brazil (2024, 30h)
+* **Sediments Datings by 210Pb tracing**, National Atomic Energy Commission, Argentina (2024, 40h)
+* **Winter School of Chemometrics**, University of Brasilia, Brazil (2023, 30h)
+* **Brazilian Program on Spetroscopic Soil Analysis**, Luiz de Queiroz Agricultural Studies Foundation, Online (2023, 21h)
+* **Ricardo Rodrigues Synchrotron Light School**, Brazilian Center for Research in Energy and Materials, Online (2022, 68h)
 * **Medical Physics**, State University of Maringá (UEM), Brazil (68h)
 
 # Skills
 
-* **Programming & Tools:** C/C++, CUDA, Python, Julia, LaTeX, Git, Gnuplot
+* **Programming & Tools:** Python, Julia, LaTeX.
 * **Languages:**
     * Portuguese: Native
     * English: Fluent
-    * Spanish: Intermediate
 
 # Teaching and Outreach
 
