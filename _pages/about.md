@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Welcome!" # This is the title that will appear in the browser tab and on the page itself
+title: "Hello!" # This is the title that will appear in the browser tab and on the page itself
 permalink: / # <--- IMPORTANT: This makes it your homepage
 author_profile: true
 ---
 
 
-I'm João Marcos Lopes, a PhD Candidate in Physics at the State University of Londrina (UEL), specializing in **Applied Nuclear Physics**. My research focuses on soil redistribution assessment through **Gamma-Ray Spectrometry (GRS)**, **X-Ray Fluorescence (XRF)**, and **Mid-Infrared Spectroscopy (MIRS)**. I am currently working with data fusion models to explore the synergy among these spectroscopic techniques, as well as applying geostatistical tools to analyze the spatial distribution of soil parameters and their relationship with erosion and movement processes.
+I'm João Marcos, a PhD Candidate in Physics at the State University of Londrina (UEL), specializing in **Applied Nuclear Physics**. My research focuses on soil redistribution assessment through **Gamma-Ray Spectrometry (GRS)**, **X-Ray Fluorescence (XRF)**, and **Mid-Infrared Spectroscopy (MIRS)**. I am currently working with data fusion models to explore the synergy among these spectroscopic techniques, as well as applying geostatistical tools to analyze the spatial distribution of soil parameters and their relationship with erosion and movement processes.
 
 I also have experience in **modeling and multivariate analysis** of spectral and quantitative data, using exploratory techniques to uncover patterns and relationships, as well as predictive models to interpret and make sense of complex datasets.
 
