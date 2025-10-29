@@ -11,15 +11,15 @@ redirect_from:
 # Education
 
 * **PhD Candidate in Physics**, State University of Londrina (UEL), Londrina, Brazil (2022-Present)
-    * Advisor: Avacir Casanova Andrello
+    * Advisor: [Avacir Casanova Andrello](http://lattes.cnpq.br/1597291965777351)
     * STEP Fellow: International Atomic Energy Agency, Austria (Supervisor: Kalliopi Kanaki)
     * Scholarship: CAPES (Coordination for the Improvement of Higher Education Personnel)
 * **M.S. in Physics**, State University of Londrina (UEL), Londrina, Brazil (2020 - 2022)
     * Thesis: "Análise Elementar por TXRF de Amostras de Saliva de Pacientes com Peri-Implantite" (Elemental Analysis using TXRF of Saliva Samples of Patients with Peri-Implantitis)
-    * Advisor: Avacir Casanova Andrello
+    * Advisor: [Avacir Casanova Andrello](http://lattes.cnpq.br/1597291965777351)
 * **B.S. in Physics**, State University of Maringá (UEM), Maringá, Brazil (2016 - 2019)
     * Thesis: "Espectroscopia de Impedância: Uma Visão Elétrica e Mecânica" (Impedance Spectroscopy: An Electrical and Mechanical View)
-    * Advisor: Fernando Carlos Messias Freire
+    * Advisor: [Fernando Carlos Messias Freire](http://lattes.cnpq.br/2039065936366084)
 
 # Research Experience
 * **Research Areas:** Applied Nuclear Physics, Gamma-Ray Spectrometry, X-Ray Fluorescence, Mid-Infrared Spectroscopy, Soil Redistribution, Multivariate Analysis, Regression Models
