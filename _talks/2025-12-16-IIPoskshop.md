@@ -1,5 +1,5 @@
 ---
-title: "Multimodal Spectral Analysis for Evaluating Soil Erosion in Agricultural Areas (Análise Espectral Multimodal para Avaliação de Fenômenos Erosivos em Solos Agrícolas)" # This is the "Presented work"
+title: "'Análise Espectral Multimodal para Avaliação de Fenômenos Erosivos em Solos Agrícolas' (Multimodal Spectral Analysis for Evaluating Soil Erosion in Agricultural Areas)" # This is the "Presented work"
 collection: talks
 type: "Oral Presentation" # <--- NEW FIELD: Add 'Oral Presentation' or 'Poster Presentation'
 authors: "João M. F. Lopes; Fábio L. Melquides; Avacir C. Andrello" # <--- NEW FIELD: Add authors
