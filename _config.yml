@@ -27,16 +27,16 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #"I am a PhD candidate in Physics at the Federal University of Paraná (UFPR). My current research focuses on transport and chaos in plasmas using Hamiltonian models, with an emphasis on drift wave models, and I spent a year as a visiting researcher at Universidad Rey Juan Carlos in Spain."
   location         : "Londrina, Brazil"
-  employer         : #"Universidade Federal do Paraná (UFPR)"
+  employer         : "Universidade Estadual de Londrina (UEL)"
   uri              : # URL
-  email            : "lopes.joaomarcos@uel.br" 
+  email            : "jmflopes.pro@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.br/citations?user=KD6b5JQAAAAJ&hl=pt-BR"
   impactstory      : # URL
-  orcid            : "hhttps://orcid.org/0000-0001-7096-169X"
+  orcid            : "https://orcid.org/0000-0001-7096-169X"
   semantic         : # URL
   pubmed           : # URL
   lattes           : "http://lattes.cnpq.br/3443356206155474" # Replace with your Lattes profile URL
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/joao-mf-lopes/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

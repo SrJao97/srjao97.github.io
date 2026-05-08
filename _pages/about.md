@@ -49,4 +49,4 @@ You can explore my academic output in detail in the [Publications](/publications
 
 ## Contact
 
-Feel free to reach out to me at **[lopes.joaomarcos@uel.br](mailto:lopes.joaomarcos@uel.br)**.
+Feel free to reach out to me at **[jmflopes.pro@gmail.com](mailto:jmflopes.pro@gmail.com)**.
