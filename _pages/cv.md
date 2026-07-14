@@ -8,9 +8,15 @@ redirect_from:
 
 {% include base_path %}
 
+# Professional Experience
+
+* **Consultant**, Joint FAO/IAEA Centre of Nuclear Techniques in Food and Agriculture, Seiberdorsf, Austria (2026-present)
+    * Soil and Water Management and Crop Nutrition Laboratory (SWMCNL)
+
 # Education
 
-* **PhD Candidate in Physics**, State University of Londrina (UEL), Londrina, Brazil (2022-Present)
+* **PhD in Physics**, State University of Londrina (UEL), Londrina, Brazil (2022-2026)
+    * Thesis: Multimodal Spectroscopic Analysis for Erosion Assessment in Agricultural Soils
     * Advisor: [Avacir Casanova Andrello](http://lattes.cnpq.br/1597291965777351)
     * STEP Fellow: International Atomic Energy Agency, Austria (Supervisor: Kalliopi Kanaki)
     * Scholarship: CAPES (Coordination for the Improvement of Higher Education Personnel)
@@ -40,6 +46,7 @@ redirect_from:
 
 * **Member, Sociedade Brasileira de Física (SBF)** (Brazilian Physical Society) (Since 2024)
 * **Member, Sociedade Brasileira para o Progresso da Ciência (SBPC)** (Brazilian Society for the Advancement of Science) (Since 2020)
+* **Member, Soil Science Society of America (SSSA)** (Since 2026)
 
 # Complementary Training
 
