@@ -6,9 +6,7 @@ author_profile: true
 ---
 
 
-I'm João Marcos, a PhD Candidate in Physics at the State University of Londrina (UEL), specializing in **Applied Nuclear Physics**. My research focuses on soil redistribution assessment through **Gamma-Ray Spectrometry (GRS)**, **X-Ray Fluorescence (XRF)**, and **Mid-Infrared Spectroscopy (MIRS)**. I am currently working with data fusion models to explore the synergy among these spectroscopic techniques, as well as applying geostatistical tools to analyze the spatial distribution of soil parameters and their relationship with erosion and movement processes.
-
-I also have experience in **modeling and multivariate analysis** of spectral and quantitative data, using exploratory techniques to uncover patterns and relationships, as well as predictive models to interpret and make sense of complex datasets.
+I'm João Marcos, a Physicist (PhD) specialized in **Applied Nuclear Physics**. My main topics of research includes: soil redistribution assessment through **Gamma-Ray Spectrometry (GRS)**; build regression models using **X-Ray Fluorescence (XRF)**, and **Mid-Infrared Spectroscopy (MIRS)** to predict soil fertility parameters; development of **data fusion** models combining GRS, XRF, and MIRS to explore the synergy between these techniques in evaluating soil health; and, applying **geostatistical tools** to analyze the spatial distribution of soil parameters and their relationship with erosion and movement processes. I am currently working at the **Joint FAO/IAEA Centre of Nuclear Techniques in Food and Agriculture** as a Consultant for the Soil and Water Management and Crop Nutrition Laboratory (SWMCNL).
 
 Recently, I have been working on **Bayesian calibration models** for XRF, applying orthogonal regression techniques that account for uncertainties in both measured and certified values. This approach improves accuracy and uncertainty quantification compared to traditional least-squares calibration, offering a more robust representation of the relationship between signal and concentration.
 
@@ -25,10 +23,10 @@ I am currently interested in advancing the use of spectroscopic techniques in en
 
 ## Quick Overview
 
-* **Current Role:** PhD Candidate in Physics, State University of Londrina (UEL)
+* **Current Role:** Consultant, Joint FAO/IAEA Centre of Nuclear Techniques in Food and Agriculture
 * **Research Interests:** Applied Nuclear Physics, Spectroscopic Techniques, Soil Redistribution, Data Fusion, Multivariate Analysis, Predictive Modeling, Quantitative Analysis.
 * **Key Programming & Tools:** Python, Julia, LaTeX.
-* **Education:** M.S. in Physics (UEL), B.S. in Physics (UEM).
+* **Education:** PhD in Physics (UEL), M.S. in Physics (UEL), B.S. in Physics (UEM).
 * **Full CV:** [View my complete Curriculum Vitae](/cv/)
 
 ---
